@@ -1,5 +1,5 @@
 # Write your #display_rainbow method here
-def display_rainbow.chomp(colors)
+def display_rainbow.(colors)
   colors= ["R:red", "O: orange", "Y: yellow" ,"G: green","B: blue", "I: indigo" , "V: violet"]
   puts "#{R:red}"
   puts "#{O:orange}"
@@ -8,5 +8,4 @@ def display_rainbow.chomp(colors)
   puts "#{B:blue}"
   puts "#{I:indigo}"
   puts "#{V: violet}"
-end
 end
